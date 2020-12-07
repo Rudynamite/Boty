@@ -3,8 +3,6 @@
   <h1>Boty</h1>
 </div>
 
-![Invite me](https://discord.com/oauth2/authorize?client_id=656884187151728671&permissions=1916267615&scope=bot)
-
 ## __**Commands/Fun**__ :
 - b!help
 - b!help moderations
@@ -43,4 +41,7 @@
 	is used to give a kiss to someone: Displays a gif that gives a kiss to the person mentioned.
 - b!hug @(pseudo)
 	used to hug someone: Displays a gif that hugs the person mentioned
+	
+Invite: https://top.gg/bot/656884187151728671/
+
 # Thanks
