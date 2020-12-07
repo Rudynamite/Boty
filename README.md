@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://imgur.com/K4OQ2Eb.png" width="120"/>
   <h1>Boty</h1>
+  <h2>![Invite me](https://discord.com/oauth2/authorize?client_id=656884187151728671&permissions=1916267615&scope=bot)</h2>
 </div>
 
 ## __**Commands/Fun**__ :
