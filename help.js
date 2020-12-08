@@ -11,6 +11,4 @@
 
 		message.channel.send(exampleEmbed);
 
-		//help - Commandes
-
 	}
