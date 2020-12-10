@@ -25,8 +25,6 @@
 	is used to know the statistics (fast) of the user who executed this command.
 - b!jokes
 	is used to give jokes randomly when you want to look for a joke or have fun.
-- b!afk
-	is used to warn when a user is AFK.
 - b!invite
 	is used to want to invite Boty to another server.
 - b!links
@@ -41,7 +39,13 @@
 	is used to give a kiss to someone: Displays a gif that gives a kiss to the person mentioned.
 - b!hug @(pseudo)
 	used to hug someone: Displays a gif that hugs the person mentioned
-	
-Invite: https://top.gg/bot/656884187151728671/
+- b!stare @(pseudo)
+	used to stare someone: Displays a gif that stare the person mentioned
+
+[Invite me!](https://discord.com/oauth2/authorize?client_id=656884187151728671&permissions=1916267615&scope=bot)
+
+[Discord Server](https://discord.gg/PM8XQrE)
+
+[GitHub](https://github.com/Izonix/Boty)
 
 # Thanks
